@@ -1,2 +1,2 @@
 # brazuca-experience
-Repository for all types pf files and projects
+Repository for all types of files and projects
